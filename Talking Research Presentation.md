@@ -1,3 +1,3 @@
-[![Talking Research Presentation](https://i.imgur.com/QvKHFaL.png)](https://www.youtube.com/watch?v=7mS-Mr4KnFs)
+->**Click the image below to view the presentation**<-
 
-Click on image to view presentation
+->[![Talking Research Presentation](https://i.imgur.com/QvKHFaL.png)](https://www.youtube.com/watch?v=7mS-Mr4KnFs)<-
